@@ -1,0 +1,4 @@
+{
+    "spec":"cypress/**/*.cy.js",
+    "reporter":"mochawesome"
+}
